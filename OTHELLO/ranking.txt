@@ -1,0 +1,1 @@
+ RANK: username: reza wins: 6 END RANK: username: Computer wins: 3 END RANK: username: mohammad wins: 4 ENDRANK: username: ali wins: 1  END RANK: username: ahmad wins: 1  END 

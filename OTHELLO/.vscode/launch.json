@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/rezamosavi/Desktop/game",
+      "environment": [],
+      "program": "/Users/rezamosavi/Desktop/game/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "lldb",
+      "externalConsole": true
+    }
+  ]
+}
