@@ -54,3 +54,77 @@ End of the game:
 The game is over when the board is full, and no more moves can be made, or when both players consecutively pass their turns. At this point, the player with the most discs of their color on the board is declared the winner.
 
 Othello is a strategic game that requires players to plan ahead and think strategically to control as much of the board as possible. It's easy to learn, yet challenging to master, making it a favorite for players of all ages and skill levels.
+
+    
+# OTHELLO Game
+
+This program is written in C++ language. Due to the limitations of the lesson, we had to implement the user interface in the terminal.
+ -  _Menu_
+<p align="center">
+  <img src = "image/menu.png" height = "350">
+</p>
+
+
+ -  _New Game_
+<p align="center">
+  <img src = "image/new-game.png" height = "350">
+</p>
+
+ -  _Game Table_
+<p align="center">
+  <img src = "image/game-table.png" height = "350">
+</p>
+
+-  _Gamepaly_
+<p align="center">
+  <img src = "image/gamepaly.png" height = "350">
+</p>
+
+
+-  _Load_
+<p align="center">
+  <img src = "image/load game.png" height = "350">
+</p>
+
+-  _Ranking_
+<p align="center">
+  <img src = "image/rank.png" height = "350">
+</p>
+
+-  _About_
+<p align="center">
+  <img src = "image/about.png" height = "350">
+</p>
+
+-  _Exit_
+<p align="center">
+  <img src = "image/exit.png" height = "350">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
